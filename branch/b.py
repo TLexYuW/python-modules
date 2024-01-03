@@ -15,6 +15,6 @@ def print_Self():
 
 print(sys.path)
 
-from teach import d
+from same_level_package import d
 
 d.print_Self()

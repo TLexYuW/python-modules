@@ -1,8 +1,8 @@
 import sys
 import a
 import os
-import alpha3.beta3.mymodule5 as m5
-import alpha2.beta2.mymodule4 as m4
+import alpha5.beta5.mymodule5 as m5
+import alpha4.beta4.mymodule4 as m4
 from branch import b
 # from .branch import b
 
